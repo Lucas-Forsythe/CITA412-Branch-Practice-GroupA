@@ -3,6 +3,10 @@ Group Members: Lucas Forsythe, David McGregor, Anthony Ulysse
 
 
 
+Three risks that can affect a game project: miscommunication, unrealistic ambition, Time mismanagement
+
+
+
 Possible Concept:
 
 The player solves puzzles while walking through a haunted house. The player uses a flashlight for lighting to solve puzzles. The player hides from ghosts.
